@@ -1,0 +1,50 @@
+﻿"Tabela 9514 - População residente, por sexo, idade e forma de declaração da idade"
+"Forma de declaração da idade - Total"
+"Brasil"
+"Variável - População residente - percentual do total geral"
+"Idade","Ano x Sexo"
+"Idade","2022"
+"Idade","Homens","Mulheres"
+"0 a 4 anos","3.18","3.07"
+"5 a 9 anos","3.45","3.32"
+"10 a 14 anos","3.44","3.29"
+"15 a 19 anos","3.60","3.48"
+"20 a 24 anos","3.82","3.79"
+"25 a 29 anos","3.76","3.86"
+"30 a 34 anos","3.71","3.91"
+"35 a 39 anos","3.85","4.11"
+"40 a 44 anos","3.83","4.08"
+"45 a 49 anos","3.22","3.49"
+"50 a 54 anos","2.96","3.24"
+"55 a 59 anos","2.67","3.03"
+"60 a 64 anos","2.27","2.63"
+"65 a 69 anos","1.77","2.11"
+"70 a 74 anos","1.29","1.60"
+"75 a 79 anos","0.82","1.08"
+"80 a 84 anos","0.50","0.72"
+"85 a 89 anos","0.24","0.41"
+"90 a 94 anos","0.10","0.19"
+"95 a 99 anos","0.02","0.06"
+"100 anos ou mais","0.01","0.01"
+"Fonte: IBGE - Censo Demográfico"
+
+"Notas"
+"1 - Dados do Universo."
+"2- Os dados referentes aos municípios Abel Figueiredo (PA) e São Pedro da Água Branca (MA) foram corrigidos no dia 22/12/2023, impactando nos totais dos estados do Pará e do Maranhão e nos totais das Grandes Regiões do Norte e Nordeste."
+""
+"Legenda"
+"Símbolo","Significado"
+"-","Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0","Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X","Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..","Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...","Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)","Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
