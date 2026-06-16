@@ -40,7 +40,7 @@ Sistema de controle de estoque de uma loja, com as seguintes operações sobre p
 ## 🗂️ Estrutura do repositório
 
 ```
-portfolio_database/
+02_databases/
 │
 ├── mysql/
 │   ├── python/
