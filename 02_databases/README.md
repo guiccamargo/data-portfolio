@@ -75,14 +75,14 @@ Cada subpasta contém seu próprio conjunto de dependências. Navegue até o ban
 ```bash
 cd mysql/python
 pip install -r requirements.txt
-python main.py
+python programa.py
 ```
 
 **Java (exemplo com MySQL):**
 ```bash
 cd mysql/java
-javac Main.java
-java Main
+javac Programa.java
+java Programa
 ```
 
 > Certifique-se de configurar as credenciais de conexão no arquivo de configuração de cada projeto antes de executar.
