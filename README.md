@@ -1,6 +1,6 @@
 # 📊 Data Portfolio — Guilherme Camargo
 
-Físico em transição para **Data Science**. Este repositório reúne projetos de análise de dados, modelagem, bancos de dados e automações em Python.
+Estudante de **Data Science**. Este repositório reúne projetos de análise de dados, modelagem, bancos de dados e automações em Python.
 
 ---
 
